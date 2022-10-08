@@ -5,5 +5,6 @@ public class HomeTest {
     String email = "saleela@test.com";
     int phone = 222-222-2222;
     String address = "555 25nd SE Washington DC 200003";
+    int num = 1234567;
 
 }
